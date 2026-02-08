@@ -36,7 +36,7 @@ Computer Science student with a growing specialization in Data Science and Artif
 
 ## 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/zraapiliaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zraapiliaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zraapiliaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zrapiliaa" height="30" width="40" /></a>
 </p>
 
 *"Data is the new oil, but only if you know how to refine it."*
