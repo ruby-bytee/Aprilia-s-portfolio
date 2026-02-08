@@ -33,7 +33,7 @@ Computer Science student with a growing specialization in Data Science and Artif
 > Designed and implemented a Data Warehouse using the Kimball 4-Step method to analyze business patterns and reduce asset loss.
 - **Result:** Decreased book loss by 52% (from 27 to 13 books).
 - **Tech Stack:** ETL Processes, Data Modeling.
-- [🔗 View Repository](GANTI_DENGAN_LINK_REPO_KAMU)
+- [🔗 View Repository](Analisis_Data_Warehouse_Pada_Perpustakaan_Universi.pdf)
 ---
 ## 🤝 Connect with Me
 <p align="left">
