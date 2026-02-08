@@ -34,7 +34,11 @@ Computer Science student with a growing specialization in Data Science and Artif
 - **Result:** Decreased book loss by 52% (from 27 to 13 books).
 - **Tech Stack:** ETL Processes, Data Modeling.
 - [🔗 View Repository](Analisis_Data_Warehouse_Pada_Perpustakaan_Universi.pdf)
----
+
+### 📊 [Customer Segmentation](GANTI_DENGAN_LINK_REPO_KAMU)
+> This project aims to help a banking company better understand its customers through data-driven analysis, clustering, visualization, and insight extraction. The main objective is to segment customers based on their characteristics, identify behavioral patterns, and discover factors that influence customer subscription decisions.
+- **Tech StackPython:** Pandas, Scikit-learn, Matplotlib, Data Analysis & Machine Learning
+- **Notebook:** 
 ## 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/zraapiliaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zrapiliaa" height="30" width="40" /></a>
