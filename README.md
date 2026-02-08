@@ -27,7 +27,7 @@ Computer Science student with a growing specialization in Data Science and Artif
 ### 🏦 [Credit Risk Prediction Model](GANTI_DENGAN_LINK_REPO_KAMU)
 > Developed an end-to-end credit risk model for a lending company using Logistic Regression to identify default risks.
 - **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white).
-- [🔗 View Repository](credit_risk (1).ipynb)
+- **Notebook:** [View Project Analysis Here](credit_risk%20(1).ipynb)
 
 ### 📊 [Data Warehouse Implementation](GANTI_DENGAN_LINK_REPO_KAMU)
 > Designed and implemented a Data Warehouse using the Kimball 4-Step method to analyze business patterns and reduce asset loss.
